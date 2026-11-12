@@ -5,7 +5,7 @@ A click-to-sew embroidery simulator built from the Gumbit patch by PJ O'Rourke I
 Pick a thread off the rack, click a part of the patch, and a needle stitches it in.
 Every section follows an outline in the original design.
 
-**Live page:** add the GitHub Pages URL here once Pages is on.
+**Live page:** https://feldtdesign-ship-it.github.io/gumbit-stitch-shop/
 
 ## How it works
 
